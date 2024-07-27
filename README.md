@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cornel</h1>
-<h3 align="center">A passionate frontend developer from Constanta</h3>
+<h3 align="center">A passionate student at UOC and aspire to be an ethical hacker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cornel98&label=Profile%20views&color=0e75b6&style=flat" alt="cornel98" /> </p>
 
